@@ -2,9 +2,10 @@
 
 Sou Kennedy Samuel, Cursando Desenvolvimento de Sistemas na escola Brigadeiro Eduardo Gomes e atualmente trabalhando como repósitor. Procuro sempre novas experiência, para ampliar meus conhecimentos. Fique à vontade para me encontrar nas redes sociais:
 
-[![Linkedin Badge]www.linkedin.com/in/kennedy-samuel-pereira
-[![Instagram Badge]
-[![Email Badge](https://img.shields.io/badge/kennedyspsantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kennedyspsantos@gmail.com)](mailto:kennedyspsantos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Kennedy%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennedy-samuel-pereira)](https://www.linkedin.com/in/kennedy-samuel-pereira/)
+[![Instagram Badge](https://img.shields.io/badge/-@prof_higoor-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prof_higoor/)](https://www.instagram.com/prof_higoor/)
+[![Email Badge](https://img.shields.io/badge/-bernardeshigor52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardeshigor52@gmail.com)](mailto:bernardeshigor52@gmail.com)
+
 
 ---
 
