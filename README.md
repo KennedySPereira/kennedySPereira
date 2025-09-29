@@ -3,8 +3,7 @@
 Sou Kennedy Samuel, Cursando Desenvolvimento de Sistemas na escola Brigadeiro Eduardo Gomes e atualmente trabalhando como repósitor. Procuro sempre novas experiência, para ampliar meus conhecimentos. Fique à vontade para me encontrar nas redes sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kennedy%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennedy-samuel-pereira)](https://www.linkedin.com/in/kennedy-samuel-pereira/)
-[![Instagram Badge](https://img.shields.io/badge/-@prof_higoor-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prof_higoor/)](https://www.instagram.com/prof_higoor/)
-[![Email Badge](https://img.shields.io/badge/-bernardeshigor52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardeshigor52@gmail.com)](mailto:bernardeshigor52@gmail.com)
+
 
 
 ---
@@ -25,14 +24,14 @@ Sou Kennedy Samuel, Cursando Desenvolvimento de Sistemas na escola Brigadeiro Ed
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/higorber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorber&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/kennedySPereira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedySPereira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
-![Badge de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=higober.higober)
+![Badge de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=kennedySPereira.kennedySPereira)
 <!--
 **KennedySPereira/kennedySPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
